@@ -81,8 +81,8 @@ __banner__ = """
 \033[1;37m     ./ ,  `,  \033[1;31m   (____/`\__,_)(_) (_)`\__)`\____)`\__)
 \033[1;37m     / /     \  \033[1;37m       Made with \033[1;31m<3\033[0m\033[1;37m by BlackHoleSec\033[0m
 \033[1;37m    (_)))_ _," \033[0m
-\033[1;37m        ||||        DedSecTL - Cvar1984 - ITermSec\033[0m
-\033[1;37m       _||||_,      CiKu370  - amsitlab - X14N23N6\033[0m
+\033[1;37m        ||||        poncol oficeal - the poncol - JKT Your Gaming\033[0m
+\033[1;37m       _||||_,      Galang360  - amsitlab - Mr.G4L4N9\033[0m
 \033[1;37m------(_,-._)))-----------------------------------------\033[0m
 """
 backtomenu_banner = """
